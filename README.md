@@ -1,2 +1,2 @@
 # Monitoring
-Monitoring with Telegraf, InfluxDB and Grana
+Monitoring with Telegraf, InfluxDB and Grafana
